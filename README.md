@@ -9,5 +9,5 @@ Let's connect?
 <details>
   <summary>GitHub stats</summary>
   
-  ![Alekss' GitHub stats](https://github-readme-stats.vercel.app/api?username=theRealAlpaca)
+  ![Alekss' GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksslitvinovs)
 </details>
